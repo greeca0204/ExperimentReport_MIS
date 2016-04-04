@@ -1,3 +1,4 @@
+This is the experiment report management system written in PHP language for Guilin University of Electronic Technology. 
 ### 系统模块
 
 *   **学生模块**：选课、实验相关内容学习、实验报告填写和提交、成绩查询、讨论区交流等
